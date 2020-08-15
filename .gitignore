@@ -1,0 +1,14 @@
+/venv/
+/src/pKway-hyperbolicCache/register_based/build/
+/src/pKway-hyperbolicCache/register_based/logs/
+/src/pKway-hyperbolicCache/register_based/pcaps/
+/src/pKway/build/
+/src/pKway/logs/
+/src/pKway/pcaps/
+/src/pKway-hyperbolicCache/register_based/build/
+/src/pKway-hyperbolicCache/register_based/logs/
+/src/pKway-hyperbolicCache/register_based/pcaps/
+/src/pKway-hyperbolicCache/match_table_based/build/
+/src/pKway-hyperbolicCache/match_table_based/logs/
+/.idea
+/src/pKway-hyperbolicCache/match_table_based/pcaps/
